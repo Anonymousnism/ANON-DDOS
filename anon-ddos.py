@@ -14,7 +14,7 @@ bytes = random._urandom(3500)
 
 os.system("clear")
 
-print "
+print " "
 
 print "           $$$$$$$$$$$$$        $$$$$$$$$$$$                                   "
 
@@ -36,7 +36,7 @@ print "           $$$$$$$$$$$           $$$$$$$$$$$    $$$$$$$$$$$   $  $    $  
 
 print "           $$$$$$$$$$$           $$$$$$$$$$$    $$$$$$$$$$$    $$$    $$$$$    "
 
-print 
+print " "
 
 print "["+B+""+R+"#"+N+"] "+B+""+R+"Author : MOJO"+N+"   Hacker Group - "+B+""+R+"ANONYMOUS"+N
 
